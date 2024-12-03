@@ -21,9 +21,6 @@ I attended a 5-day certificate course on Data Science Applications in Automobile
 **Machine learning:**
 I took an online machine learning course from Stanford University on Coursera. In the course, I learned how to create machine learning models in Python using popular libraries like NumPy and scikit-learn. I also learned to build and train supervised machine learning models for tasks like prediction and binary classification, including linear regression and logistic regression.
 
-**STM32 Embedded Industrial Board:**
-I attended a National Level Technical Fest Thrusang organized by Koneru Lakshmaiah Education Foundation. I participated in a hands-on workshop where I gained detailed technical knowledge about the STM32 series. The seminar covered the system architecture and advanced digital and analog features of STM32 devices.
-
 **PROJECTS:** </br>
 **Bluetooth-based vehicle collision avoidance system:**
 During the final year of my undergraduate engineering program, our team developed a project with the primary objective of designing and deploying an application for Android handsets. This application aimed to alert operators about adjacent movements, thereby promoting driver safety and reducing the risk of accidents between individual cars.</br>
