@@ -1,7 +1,6 @@
-## Hi there 👋 I'm Thanmai Gottumukkala!</br>
+## Hello👋 I'm Thanmai Gottumukkala!</br>
 🎓 Computer Science Student at Univerity of Missouri - Kansas City</br>
 🌱 Currently learning: Machine Learning</br>
-📫 Reach me at: [https://www.linkedin.com/in/thanmai-gottumukkala-a22b64135/]</br>
 💡 Fun fact: I love solving coding challenges and exploring open-source projects</br> 
 
 [![Thanmai's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanmaigottumukkala)](https://github.com/thanmaigottumukkala/github-readme-stats)
@@ -25,10 +24,24 @@ I took an online machine learning course from Stanford University on Coursera. I
 **STM32 Embedded Industrial Board:**
 I attended a National Level Technical Fest Thrusang organized by Koneru Lakshmaiah Education Foundation. I participated in a hands-on workshop where I gained detailed technical knowledge about the STM32 series. The seminar covered the system architecture and advanced digital and analog features of STM32 devices.
 
-**PROJECTS:**</br>
+**PROJECTS:** </br>
 **Bluetooth-based vehicle collision avoidance system:**
-During the final year of my undergraduate engineering program, our team developed a project with the primary objective of designing and deploying an application for Android handsets. This application aimed to alert operators about adjacent movements, thereby promoting driver safety and reducing the risk of accidents between individual cars.
+During the final year of my undergraduate engineering program, our team developed a project with the primary objective of designing and deploying an application for Android handsets. This application aimed to alert operators about adjacent movements, thereby promoting driver safety and reducing the risk of accidents between individual cars.</br>
 Technology used: IOT, Android studio
+
+**Tech Stack:** </br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Connect with me:** </br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/thanmai-gottumukkala-a22b64135//)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/thanmai.gottumukkala//)
+
+
+
 
 
 
