@@ -38,6 +38,8 @@ Technology used: IOT, Android studio
 
 **Connect with me:** </br>
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thanmai.gottumukkala/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanmai-gottumukkala-a22b64135/)
+
 
 
 
