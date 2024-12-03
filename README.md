@@ -37,8 +37,8 @@ Technology used: IOT, Android studio
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Connect with me:** </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/thanmai-gottumukkala-a22b64135/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?logo=instagram&logoColor=white)](https://www.instagram.com/https://www.instagram.com/thanmai.gottumukkala//)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thanmai.gottumukkala/)
+
 
 
 
