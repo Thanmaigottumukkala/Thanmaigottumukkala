@@ -2,8 +2,7 @@
 🎓 Computer Science Student at Univerity of Missouri - Kansas City</br>
 🌱 Currently learning: Machine Learning</br>
 💡 Fun fact: I love solving coding challenges and exploring open-source projects</br> 
-
-[![Thanmai's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanmaigottumukkala)](https://github.com/thanmaigottumukkala/github-readme-stats)
+ I’m currently working on: Real-Time Threat Intelligence and enhancing my expertise in software and hardware engineering.
 
 **INTERNSHIP:** Intern-Web Development</br>
 I did an internship at Tonmetri Info Solutions where my focus was on web development, resulting in valuable hands-on experience. This internship afforded me the opportunity to adeptly apply HTML, CSS, and JavaScript, contributing to the enhancement of my proficiency in these technologies.</br>
