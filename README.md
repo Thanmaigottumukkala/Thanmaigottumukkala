@@ -29,14 +29,14 @@ I attended a National Level Technical Fest Thrusang organized by Koneru Lakshmai
 During the final year of my undergraduate engineering program, our team developed a project with the primary objective of designing and deploying an application for Android handsets. This application aimed to alert operators about adjacent movements, thereby promoting driver safety and reducing the risk of accidents between individual cars.</br>
 Technology used: IOT, Android studio
 
-**Tech Stack:** </br>
+**TECH STACK:** </br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Connect with me:** </br>
+**CONNECT WITH ME:** </br>
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thanmai.gottumukkala/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanmai-gottumukkala-a22b64135/)
 
