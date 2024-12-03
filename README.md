@@ -10,7 +10,7 @@ I did an internship at Tonmetri Info Solutions where my focus was on web develop
 **WORK EXPERIENCE:**
 I worked at Accenture for 2.5-years in an SAP SuccessFactors project, handling responsibilities in Employee Central, CWM, and GSI. During this period, I successfully forged strategic partnerships with over 13 key clients, leading to a significant improvement in team performance. Additionally, I have completed an intensive six-month Salesforce training program, underscoring my dedication to ongoing learning and professional development. Notably, within 15 months of my entry-level hire, I demonstrated exceptional capabilities while spearheading a major GSI project, overseeing operations in over 10 countries, and achieving outstanding project results. Furthermore, I led the effort to enhance the skill set of three team members through advanced methodologies, leading to significant improvements in both customer understanding and overall team effectiveness.
 
-**CERTIFICATIONS/ WORKSHOPS:**</br>
+**WORKSHOPS:**</br>
 **Cloud Computing:**
 I attended a 2-day workshop on Cloud Computing at KL University, organized by Azure Skynet Solutions (P) Ltd. in collaboration with Composit-IIT Kharagpur. Throughout the workshop, I acquired a comprehensive understanding of Android, covering essentials such as Java, Android Security, and Malware. Additionally, I gained practical experience by working with the Android Studio software.
 
