@@ -13,9 +13,6 @@ I worked at Accenture for 2.5-years in an SAP SuccessFactors project, handling r
 **WORKSHOPS:**</br>
 **Cloud Computing:**
 I attended a 2-day workshop on Cloud Computing at KL University, organized by Azure Skynet Solutions (P) Ltd. in collaboration with Composit-IIT Kharagpur. Throughout the workshop, I acquired a comprehensive understanding of Android, covering essentials such as Java, Android Security, and Malware. Additionally, I gained practical experience by working with the Android Studio software.
-
-**Data Science and AI Applications in Automobile:**
-I attended a 5-day certificate course on Data Science Applications in Automobiles at KL University. During the course, I gained insights into extracting valuable insights from large datasets.
  
 **Machine learning:**
 I took an online machine learning course from Stanford University on Coursera. In the course, I learned how to create machine learning models in Python using popular libraries like NumPy and scikit-learn. I also learned to build and train supervised machine learning models for tasks like prediction and binary classification, including linear regression and logistic regression.
